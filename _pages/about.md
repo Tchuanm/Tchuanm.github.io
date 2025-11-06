@@ -32,31 +32,31 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
 
 
 # 📝 Publications 
-- 1) [Transformer Sub-Patch Matching for High-Performance Visual Object Tracking.](https://ieeexplore.ieee.org/document/10101686)  
+- 1) [Transformer Sub-Patch Matching for High-Performance Visual Object Tracking.](https://ieeexplore.ieee.org/document/10101686)   
   *IEEE Transactions on Intelligent Transportation Systems (中科院1区TOP, CCF-B, IF=8.5)*  
   **Chuanming Tang**, Qintao Hu, Gaofan Zhou, et al. 
 
-- 2) [Learning Spatial-Frequency Transformer for Visual Object Tracking.](https://arxiv.org/abs/2208.08829) 
+- 2) [Learning Spatial-Frequency Transformer for Visual Object Tracking.](https://arxiv.org/abs/2208.08829)   
   *IEEE Transactions on Circuits and Systems for Video Technology (中科院1区TOP, CCF-B, IF=8.4)*  
   **Chuanming Tang**, Xiao Wang, Yuanchao Bai, et al. [Github](https://github.com/Tchuanm/SFTransT.git) 
 
-- 3) [IterInv: Iterative Inversion for Pixel-Level T2I Models.](https://arxiv.org/abs/2310.19540) 
+- 3) [IterInv: Iterative Inversion for Pixel-Level T2I Models.](https://arxiv.org/abs/2310.19540)  
   *IEEE International Conference on Multimedia and Expo 2024 (ICME 2024, CCF-B 类会议)*  
   **Chuanming Tang**, Kai Wang, Joost van de weijer. [Github](https://github.com/Tchuanm/IterInv.git)
 
-- 4) [Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric.](https://arxiv.org/abs/2211.11010)  
+- 4) [Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric.](https://arxiv.org/abs/2211.11010)    
   *Pattern Recognition (中科院1区TOP，CCF-B, IF=7.6)*  
-  **Chuanming Tang**, Xiao Wang, Ju Huang, Bo Jiang, et al.  [Github](https://github.com/Event-AHU/COESOT.git)
+  **Chuanming Tang**, Xiao Wang, Ju Huang, Bo Jiang, et al.  [Github](https://github.com/Event-AHU/COESOT.git)  
 
-- 5) [AViTMP: A Tracking-Specific Transformer for Single-Branch Visual Tracking.](https://arxiv.org/abs/2310.19542)  
+- 5) [AViTMP: A Tracking-Specific Transformer for Single-Branch Visual Tracking.](https://arxiv.org/abs/2310.19542)    
   *IEEE Transactions on Intelligent Vehicles (中科院1区TOP, IF=14.3)*  
-  **Chuanming Tang**, Kai Wang, Joost van de Weijer, et al. [Github](https://github.com/Tchuanm/AViTMP.git)
+  **Chuanming Tang**, Kai Wang, Joost van de Weijer, et al. [Github](https://github.com/Tchuanm/AViTMP.git)  
 
-- 6) [Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.](https://arxiv.org/abs/2309.14611)  
+- 6) [Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.](https://arxiv.org/abs/2309.14611)    
   *Conference on Computer Vision and Pattern Recognition (CVPR 2024, CCF-A类会议，CV顶会)*   
   Xiao Wang, Shiao Wang, **Chuanming Tang**, Lin Zhu, et al. [Github](https://github.com/Event-AHU/EventVOT_Benchmark.git)
 
-- 7) [LocInv: Localization-aware Inversion for Text-Guided Image Editing.](https://arxiv.org/abs/2405.01496)  
+- 7) [LocInv: Localization-aware Inversion for Text-Guided Image Editing.](https://arxiv.org/abs/2405.01496)    
   *CVPR 2024 Workshop AI4CC*    
   **Chuanming Tang**, Kai Wang, Fei Yang, Joost van de Weijer. [Arxiv] [Github](https://github.com/wangkai930418/DPL)
 
@@ -84,7 +84,7 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
   *IEEE Transactions on Instrumentation & Measurement (中科院2区，IF=5.6)*   
   Jianbo Ma, Fei Wu, Chuanjiang Li, **Chuanming Tang**, et al. 
 
-- 14) [Tracking in tracking: An efficient method to solve the tracking distortion.](https://www.sciencedirect.com/science/article/abs/pii/S095219762400856X)  
+- 14) [Tracking in tracking: An efficient method to solve the tracking distortion.](https://www.sciencedirect.com/science/article/abs/pii/S095219762400856X)   
   *Engineering Applications of Artificial Intelligence (中科院1区，CCF-C，IF=7.5)*   
   Jinzhen Yao, Zhixing Wang, et al.
 
@@ -93,7 +93,7 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
   Zhixing Wang, Kai Wang, **Chuanming Tang**, et al. [PR]
 
 # 💬 Invited Reviewers
-- CVPR 2025、AAAI 2024、IEEE Trans、PR、KBS, etc.
+- CVPR 2025、AAAI 2024、IEEE Trans、PR、KBS, etc.  
 
 # 📖 Educations
 - 2022.10- 2024.03, Autonomous University of Barcelona

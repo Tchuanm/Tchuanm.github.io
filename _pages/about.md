@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I joined the Sangfor Tech Co. as a senior algorithm engineer in July 2024. I have worked on a wide variety of projects, including Vision Tracking, Diffusion Models and LLMs. Now I am mainly working on multiple projects on LLM and Agent Applications.   
-I have published 15+ papers at the top international AI journals such as IEEE T-ITS, T-CSVT, PR, ICME. <span class='show_paper_citations' data='BiRPM9AAAAAJ:ALROH1vI_8AC'></span>
+I am a senior algorithm engineer in Sangfor Tech Co. I have worked on a wide variety of projects, including Vision Tracking, Diffusion Models and LLMs. Now I am mainly working on multiple projects on LLM and Agent Applications.   
+I have published 15+ papers  <a href='https://scholar.google.com/citations?user=BiRPM9AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI journals such as IEEE T-ITS, T-CSVT, PR, ICME. 
 
 Most recently, I am interested in the following topics:
 - LLM Applications

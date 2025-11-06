@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I am a senior algorithm engineer in Sangfor Tech Co. I have worked on a wide variety of projects, including Vision Tracking, Diffusion Models and LLMs. Now I am mainly working on multiple projects on LLM and Agent Applications.   
+I am a senior algorithm engineer in Sangfor Tech Co. I have worked on a wide variety of projects, including Vision Tracking, Diffusion Models and LLMs. Now I am mainly working on multiple projects on LLM and Agent Applications.  
+
+I graduated from Electronic Information Engineering College, Southwest University with a bachelor’s degree and from the Institute of Optics and Electronics, Chinese Academy of Sciences with a PhD degree, advised by Jianlin Zhang. I have been a visiting PhD student in [LAMP](https://www.cvc.uab.es/) group at Computer Vision Center (CVC), under the supervision of [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) in 2022. 
+
 I have published 15+ papers  <a href='https://scholar.google.com/citations?user=BiRPM9AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI journals such as IEEE T-ITS, T-CSVT, PR, ICME. 
 
 Most recently, I am interested in the following topics:
@@ -26,8 +29,8 @@ Most recently, I am interested in the following topics:
 - Agent Applications
 - Diffusion Models
 - Visual Tracking
-  
-Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  /   [LinkedIn](https://www.linkedin.com/in/chuanming-tang-776813258)  /  [Github](https://github.com/Tchuanm) to learn more. 
+
+Welcome to visit my other portal websites [LinkedIn](https://www.linkedin.com/in/chuanming-tang-776813258) to learn more. 
 
 # 🔥 News
 - 2024.07: &nbsp; I joined the Sangfor Tech Co. as a senior algorithm engineer!
@@ -96,13 +99,13 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
   Zhixing Wang, Kai Wang, **Chuanming Tang**, et al.
 
 # 🎖 Honors and Awards
-- 2024.05 CAS Presidential Scholarship
-- 2023.10 National Scholarship (Top 1%)
-- 2022.07 Chinese Government Scholarship (CSC)
+- 2024.05, CAS Presidential Scholarship
+- 2023.10, National Scholarship (Top 1%)
+- 2022.07, Chinese Government Scholarship (CSC)
 
 
 # 📖 Educations
-- 2022.10 - 2024.03, Visiting PhD, Computer Vision Center, UAB, Spain (Supervisor: [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) )  
+- 2022.10 - 2024.03, Visiting PhD, Computer Vision Center, UAB, Spain
 - 2019.09 - 2024.06, PhD, University of Chinese Academy of Sciences, China
 - 2015.09 - 2019.06, Bachelor, Southwest University, China
 

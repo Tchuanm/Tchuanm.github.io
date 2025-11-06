@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Gong Chenghua"
-description              : "Major in Data Science"
-repository               : "gongchenghua/gongchenghua.github.io"
+title                    : "Tang Chuaunming"
+description              : "Major in Computer Vision, LLM, Agent, etc."
+repository               : "Tchuanm/Tchuanm.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Gong Chenghua"
+  name             : "Tang Chuanming"
   avatar           : "images/pic.png"
-  bio              : "East China Normal University,School of Data Science and Engineering"
-  location         : "Shanghai, China"
+  bio              : "University of Chinese Academy of Sciences | Computer Vision Center, UAB"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "1424996843@qq.com"
+  googlescholar    : "https://scholar.google.com/citations?user=BiRPM9AAAAAJ"
+  email            : "tangchuanming96@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : gongchenghua
+  github           : Tchuanm
   google_plus      :
   keybase          :
   instagram        :

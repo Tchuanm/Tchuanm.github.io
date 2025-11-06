@@ -96,6 +96,9 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
   Zhixing Wang, Kai Wang, **Chuanming Tang**, et al.
 
 # 🎖 Honors and Awards
+- 2024.05 CAS Presidential Scholarship
+- 2023.10 National Scholarship (Top 1%)
+- 2022.07 Chinese Government Scholarship (CSC)
 
 
 # 📖 Educations

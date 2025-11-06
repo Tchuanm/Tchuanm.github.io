@@ -32,80 +32,65 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
 
 
 # 📝 Publications 
-- 1) **Transformer Sub-Patch Matching for High-Performance Visual Object Tracking.**  
+- 1) [Transformer Sub-Patch Matching for High-Performance Visual Object Tracking.](https://ieeexplore.ieee.org/document/10101686)  
   *IEEE Transactions on Intelligent Transportation Systems (中科院1区TOP, CCF-B, IF=8.5)*
+  **Chuanming Tang**, Qintao Hu, Gaofan Zhou, et al. 
 
-  **Chuanming Tang**, Qintao Hu, Gaofan Zhou, et al. [T-ITS](https://ieeexplore.ieee.org/document/10101686)
-
-- 2) **Learning Spatial-Frequency Transformer for Visual Object Tracking.**  
+- 2) [Learning Spatial-Frequency Transformer for Visual Object Tracking.](https://arxiv.org/abs/2208.08829) 
   *IEEE Transactions on Circuits and Systems for Video Technology (中科院1区TOP, CCF-B, IF=8.4)*
+  **Chuanming Tang**, Xiao Wang, Yuanchao Bai, et al. [Github](https://github.com/Tchuanm/SFTransT.git) 
 
-  **Chuanming Tang**, Xiao Wang, Yuanchao Bai, et al. [T-CSVT](https://arxiv.org/abs/2208.08829) [Github](https://github.com/Tchuanm/SFTransT.git)
-
-- 3) **IterInv: Iterative Inversion for Pixel-Level T2I Models.**  
+- 3) [IterInv: Iterative Inversion for Pixel-Level T2I Models.](https://arxiv.org/abs/2310.19540) 
   *IEEE International Conference on Multimedia and Expo 2024 (ICME 2024, CCF-B 类会议)*
+  **Chuanming Tang**, Kai Wang, Joost van de weijer. [Github](https://github.com/Tchuanm/IterInv.git)
 
-  **Chuanming Tang**, Kai Wang, Joost van de weijer. [arXiv](https://arxiv.org/abs/2310.19540) [Github](https://github.com/Tchuanm/IterInv.git)
-
-- 4) **Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric.**  
+- 4) [Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric.](https://arxiv.org/abs/2211.11010)  
   *Pattern Recognition (中科院1区TOP，CCF-B, IF=7.6)*
+  **Chuanming Tang**, Xiao Wang, Ju Huang, Bo Jiang, et al.  [Github](https://github.com/Event-AHU/COESOT.git)
 
-  **Chuanming Tang**, Xiao Wang, Ju Huang, Bo Jiang, et al. [PR](https://arxiv.org/abs/2211.11010) [Github](https://github.com/Event-AHU/COESOT.git)
-
-- 5) **AViTMP: A Tracking-Specific Transformer for Single-Branch Visual Tracking.**  
+- 5) [AViTMP: A Tracking-Specific Transformer for Single-Branch Visual Tracking.](https://arxiv.org/abs/2310.19542)  
   *IEEE Transactions on Intelligent Vehicles (中科院1区TOP, IF=14.3)*
+  **Chuanming Tang**, Kai Wang, Joost van de Weijer, et al. [Github](https://github.com/Tchuanm/AViTMP.git)
 
-  **Chuanming Tang**, Kai Wang, Joost van de Weijer, et al. [arXiv](https://arxiv.org/abs/2310.19542) [Github](https://github.com/Tchuanm/AViTMP.git)
-
-- 6) **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.**  
+- 6) [Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.](https://arxiv.org/abs/2309.14611)  
   *Conference on Computer Vision and Pattern Recognition (CVPR 2024, CCF-A类会议，CV顶会)*
+  Xiao Wang, Shiao Wang, **Chuanming Tang**, Lin Zhu, et al. [Github](https://github.com/Event-AHU/EventVOT_Benchmark.git)
 
-  Xiao Wang, Shiao Wang, **Chuanming Tang**, Lin Zhu, et al. [Arxiv](https://arxiv.org/abs/2309.14611) [Github](https://github.com/Event-AHU/EventVOT_Benchmark.git)
-
-- 7) **LocInv: Localization-aware Inversion for Text-Guided Image Editing.**  
+- 7) [LocInv: Localization-aware Inversion for Text-Guided Image Editing.](https://arxiv.org/abs/2405.01496)  
   *CVPR 2024 Workshop AI4CC*
+  **Chuanming Tang**, Kai Wang, Fei Yang, Joost van de Weijer. [Arxiv] [Github](https://github.com/wangkai930418/DPL)
 
-  **Chuanming Tang**, Kai Wang, Fei Yang, Joost van de Weijer. [Arxiv](https://arxiv.org/abs/2405.01496) [Github](https://github.com/wangkai930418/DPL)
-
-- 8) **Robust Template Adjustment Siamese Network for Object Visual Tracking.**  
+- 8) [Robust Template Adjustment Siamese Network for Object Visual Tracking.](https://www.mdpi.com/1424-8220/21/4/1466)  
   *Sensors, IF=3.9*
+  **Chuanming Tang**, Peng Qin, Jianlin Zhang.
 
-  **Chuanming Tang**, Peng Qin, Jianlin Zhang. [Link](https://www.mdpi.com/1424-8220/21/4/1466)
-
-- 9) **STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking.**  
+- 9) [STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking.](https://arxiv.org/abs/2409.11234)  
   *IEEE International Conference on Multimedia and Expo 2024 (ICME 2024, CCF-B 类会议)*
-
   Jianbo Ma, **Chuanming Tang**, Fei Wu, Jianlin Zhang.
 
-- 10) **Joint spatio-temporal modeling for visual tracking.**  
+- 10) [Joint spatio-temporal modeling for visual tracking.](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009565)  
   *Knowledge-Based Systems (中科院1区，CCF-C，IF=8.8)*
+  Yumei Sun, **Chuanming Tang**, Hui Luo, Qingqing Li, et al. [Github](https://github.com/nubsym/STTrack.git)
 
-  Yumei Sun, **Chuanming Tang**, Hui Luo, Qingqing Li, et al. [KBS](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009565) [Github](https://github.com/nubsym/STTrack.git)
-
-- 11) **Diffusion-Based Network For Unsupervised Landmark Detection.**  
+- 11) [Diffusion-Based Network For Unsupervised Landmark Detection.](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002624)  
   *Knowledge-Based Systems (中科院1区，CCF-C，IF=8.8)*
+  Tao Wu, Kai Wang, **Chuanming Tang**, Jianlin Zhang. 
 
-  Tao Wu, Kai Wang, **Chuanming Tang**, Jianlin Zhang. [KBS](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002624)
-
-- 12) **Information-diffused graph tracking with linear complexity.**  
+- 12) [Information-diffused graph tracking with linear complexity.](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005071)  
   *Pattern Recognition (中科院1区TOP，CCF-B，IF=8.8)*
+  Zhixing Wang, Jinzhen Yao, **Chuanming Tang**, Jianlin Zhang，et al.
 
-  Zhixing Wang, Jinzhen Yao, **Chuanming Tang**, Jianlin Zhang，et al. [PR](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005071)
-
-- 13) **G2EMOT: Guided Embedding Enhancement for Multiple Object Tracking in Complex Scenes.**  
+- 13) [G2EMOT: Guided Embedding Enhancement for Multiple Object Tracking in Complex Scenes.](https://ieeexplore.ieee.org/document/10653748)  
   *IEEE Transactions on Instrumentation & Measurement (中科院2区，IF=5.6)*
+  Jianbo Ma, Fei Wu, Chuanjiang Li, **Chuanming Tang**, et al. 
 
-  Jianbo Ma, Fei Wu, Chuanjiang Li, **Chuanming Tang**, et al. [TIM](https://ieeexplore.ieee.org/document/10653748)
-
-- 14) **Tracking in tracking: An efficient method to solve the tracking distortion.**  
+- 14) Tracking in tracking: An efficient method to solve the tracking distortion.](https://www.sciencedirect.com/science/article/abs/pii/S095219762400856X)  
   *Engineering Applications of Artificial Intelligence (中科院1区，CCF-C，IF=7.5)*
-
   Jinzhen Yao, Zhixing Wang, et al.
 
-- 15) **DSTrack: Diffusion-based Sequence Learning for Visual Object Tracking.**  
+- 15) [DSTrack: Diffusion-based Sequence Learning for Visual Object Tracking.](https://doi.org/10.1016/j.patcog.2025.111694)  
   *Pattern Recognition (中科院1区TOP，CCF-B，IF=8.8)*
-
-  Zhixing Wang, Kai Wang, **Chuanming Tang**, et al. [PR](https://doi.org/10.1016/j.patcog.2025.111694)
+  Zhixing Wang, Kai Wang, **Chuanming Tang**, et al. [PR]
 
 # 💬 Invited Reviewers
 - CVPR 2025、AAAI 2024、IEEE Trans、PR、KBS, etc.

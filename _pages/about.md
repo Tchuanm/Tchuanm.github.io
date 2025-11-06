@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I joined the Sangfor Tech Co. as a senior algorithm engineer in July 2024. Most recently, I am interested in the following topics:
+I joined the Sangfor Tech Co. as a senior algorithm engineer in July 2024. I have worked on a wide variety of projects, including Vision Tracking, Diffusion Models and LLMs. Now I am mainly working on multiple projects on LLM and Agent Applications. 
+Most recently, I am interested in the following topics:
 - LLM Applications
 - Agent Applications
 - Diffusion Models
@@ -58,7 +59,7 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
 
 - 7) [LocInv: Localization-aware Inversion for Text-Guided Image Editing.](https://arxiv.org/abs/2405.01496)    
   *CVPR 2024 Workshop AI4CC*    
-  **Chuanming Tang**, Kai Wang, Fei Yang, Joost van de Weijer. [Arxiv] [Github](https://github.com/wangkai930418/DPL)
+  **Chuanming Tang**, Kai Wang, Fei Yang, Joost van de Weijer. [Github](https://github.com/wangkai930418/DPL)
 
 - 8) [Robust Template Adjustment Siamese Network for Object Visual Tracking.](https://www.mdpi.com/1424-8220/21/4/1466)  
   *Sensors, IF=3.9*   
@@ -90,15 +91,15 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
 
 - 15) [DSTrack: Diffusion-based Sequence Learning for Visual Object Tracking.](https://doi.org/10.1016/j.patcog.2025.111694)  
   *Pattern Recognition (中科院1区TOP，CCF-B，IF=8.8)*   
-  Zhixing Wang, Kai Wang, **Chuanming Tang**, et al. [PR]
+  Zhixing Wang, Kai Wang, **Chuanming Tang**, et al.
 
 # 💬 Invited Reviewers
-- CVPR 2025、AAAI 2024、IEEE Trans、PR、KBS, etc.  
+- CVPR、AAAI、IEEE T-ITS、IEEE T-CSVT、PR、KBS, etc.  
 
 # 📖 Educations
-- 2022.10- 2024.03, Autonomous University of Barcelona
-- 2018.09 - 2024.06, University of Chinese Academy of Sciences
-- 2015.09 - 2029.06, Southwest University
+- 2022.10 - 2024.03, Computer Vision Center, Autonomous University of Barcelona, Spain (Supervisor: [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) )  
+- 2019.09 - 2024.06, University of Chinese Academy of Sciences, China
+- 2015.09 - 2019.06, Southwest University, China
 
 # 💻 Internships
-- 2022.02 - 2022.6, 2012 Lab, Huawei, Chengdu, China
+- 2022.02 - 2022.6, 2012 Lab of Huawei, Chengdu, China

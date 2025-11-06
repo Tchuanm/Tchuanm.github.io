@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I joined the Sangfor Tech Co. as a senior algorithm engineer in July 2024. I have worked on a wide variety of projects, including Vision Tracking, Diffusion Models and LLMs. Now I am mainly working on multiple projects on LLM and Agent Applications. 
+I joined the Sangfor Tech Co. as a senior algorithm engineer in July 2024. I have worked on a wide variety of projects, including Vision Tracking, Diffusion Models and LLMs. Now I am mainly working on multiple projects on LLM and Agent Applications.   
+I have published 15+ papers at the top international AI journals such as IEEE T-ITS, T-CSVT, PR, ICME. <span class='show_paper_citations' data='BiRPM9AAAAAJ:ALROH1vI_8AC'></span>
+
 Most recently, I am interested in the following topics:
 - LLM Applications
 - Agent Applications
@@ -92,6 +94,9 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
 - 15) [DSTrack: Diffusion-based Sequence Learning for Visual Object Tracking.](https://doi.org/10.1016/j.patcog.2025.111694)  
   *Pattern Recognition (中科院1区TOP，CCF-B，IF=8.8)*   
   Zhixing Wang, Kai Wang, **Chuanming Tang**, et al.
+
+# 🎖 Honors and Awards
+
 
 # 📖 Educations
 - 2022.10 - 2024.03, Visiting PhD, Computer Vision Center, UAB, Spain (Supervisor: [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) )  

@@ -94,9 +94,9 @@ Welcome to visit my other portal websites [Email](tangchuanming96@gmail.com)  / 
   Zhixing Wang, Kai Wang, **Chuanming Tang**, et al.
 
 # 📖 Educations
-- 2022.10 - 2024.03, Computer Vision Center, Autonomous University of Barcelona, Spain (Supervisor: [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) )  
-- 2019.09 - 2024.06, University of Chinese Academy of Sciences, China
-- 2015.09 - 2019.06, Southwest University, China
+- 2022.10 - 2024.03, Visiting PhD, Computer Vision Center, UAB, Spain (Supervisor: [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) )  
+- 2019.09 - 2024.06, PhD, University of Chinese Academy of Sciences, China
+- 2015.09 - 2019.06, Bachelor, Southwest University, China
 
 # 💬 Invited Reviewers
 - CVPR、AAAI、IEEE T-ITS、IEEE T-CSVT、PR、KBS, etc.  

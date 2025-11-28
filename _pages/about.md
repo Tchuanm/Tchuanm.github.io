@@ -20,7 +20,7 @@ redirect_from:
 # 🤵🏻 About me
 I am currently a **AI Algorithm Expert** at Sangfor Technologies Co. and concurrently a **Joint Postdoctoral Researcher** at Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). My current research focuses on **Large Language Models (LLMs) and Agent Applications**.
 
-I graduated from Electronic Information Engineering College, Southwest University with a bachelor’s degree and from the Institute of Optics and Electronics, Chinese Academy of Sciences with a PhD degree, advised by Jianlin Zhang. I also was a visiting PhD student in [LAMP](https://www.cvc.uab.es/) group at National Computer Vision Center (CVC, Spain), under the supervision of [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) (Top 2% AI researchers in 2021). 
+I graduated from Electronic Information Engineering College, Southwest University with a bachelor’s degree and from the Institute of Optics and Electronics, Chinese Academy of Sciences with a PhD degree, advised by Jianlin Zhang. I also was a visiting PhD student in [LAMP](https://www.cvc.uab.es/) group at National Computer Vision Center (CVC, Spain), under the supervision of [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ) (Top 2% AI researchers in 2021). 
 
 I have authored and co-authored 15+ high-quality papers published in top international AI journals and conferences, such as CVPR, IEEE T-ITS, T-CSVT, PR, ICME, etc.
 

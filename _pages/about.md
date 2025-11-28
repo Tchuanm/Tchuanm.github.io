@@ -18,23 +18,26 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I am a senior algorithm engineer in Sangfor Tech Co. I have worked on a wide variety of projects, including Vision Tracking, Diffusion Models and LLMs. Now I am mainly working on multiple projects on LLM and Agent Applications.  
+I am currently a **AI Algorithm Expert** at Sangfor Technologies Co. and concurrently a **Joint Postdoctoral Researcher** at Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). My current research focuses on **Large Language Models (LLMs) and Agent Applications**.
 
-I graduated from Electronic Information Engineering College, Southwest University with a bachelor’s degree and from the Institute of Optics and Electronics, Chinese Academy of Sciences with a PhD degree, advised by Jianlin Zhang. I have been a visiting PhD student in [LAMP](https://www.cvc.uab.es/) group at Computer Vision Center (CVC), under the supervision of [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) in 2022. 
+I graduated from Electronic Information Engineering College, Southwest University with a bachelor’s degree and from the Institute of Optics and Electronics, Chinese Academy of Sciences with a PhD degree, advised by Jianlin Zhang. I also was a visiting PhD student in [LAMP](https://www.cvc.uab.es/) group at National Computer Vision Center (CVC, Spain), under the supervision of [Joost van de Weijer](https://www.linkedin.com/in/joost-van-de-weijer-88084b57/) (Top 2% AI researchers in 2021). 
 
-I have published 15+ papers  <a href='https://scholar.google.com/citations?user=BiRPM9AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI journals such as IEEE T-ITS, T-CSVT, PR, ICME. 
+I have authored and co-authored 15+ high-quality papers published in top international AI journals and conferences, such as CVPR, IEEE T-ITS, T-CSVT, PR, ICME, etc.
 
-Most recently, I am interested in the following topics:
-- LLM Applications
-- Agent Applications
-- Diffusion Models
-- Visual Tracking
+My research journey has spanned a variety of AI fields:
+* **Ph.D. Research:** Core work in **Single Object Visual Tracking** (VOT) and **Multimodal Tracking**.
+* **Visiting Research (CVC, Spain):** Specialized in **Image Generation and Editing** (AIGC, Diffusion Models).
+* **Postdoc Research:** focus on **LLM and Agent Applications**.
 
 Welcome to visit my other portal websites [LinkedIn](https://www.linkedin.com/in/chuanming-tang-776813258) to learn more. 
 
 # 🔥 News
-- 2024.07: &nbsp; I joined the Sangfor Tech Co. as a senior algorithm engineer!
-- 2024.06: &nbsp;🎉🎉🎉 I successfully defended my PhD.
+- 2025.11: &nbsp; One paper accepted to **PR**.
+- 2024.07: &nbsp; Joined the Sangfor Tech Co. as a AI algorithm Expert and concurrently a **Postdoc** at SIAT, CAS.
+- 2024.06: &nbsp; 🎉🎉🎉 Successfully defended my PhD from CAS and graduated as an **Outstanding Graduate**.
+- 2024.04: &nbsp; 🎉🎉🎉 Two papers accepted to **ICME 2024**.
+- 2024.02: &nbsp; 🎉🎉🎉 One paper accepted to **CVPR 2024**.
+- 2023.10: &nbsp; Won the **Top 10** award in **ICCV VOTS2023 Challenge**.
 
 
 # 📝 Publications 
@@ -99,13 +102,16 @@ Welcome to visit my other portal websites [LinkedIn](https://www.linkedin.com/in
   Zhixing Wang, Kai Wang, **Chuanming Tang**, et al.
 
 # 🎖 Honors and Awards
-- 2024.05, CAS Presidential Scholarship
+- 2024.06, Outstanding PhD Graduate (< 1%)
+- 2024.04, CAS Presidential Scholarship (< 1%)
 - 2023.10, National Scholarship (Top 1%)
 - 2022.07, Chinese Government Scholarship (CSC)
+- 2021.06, Pollyanna Chu Scholarship
+- 2019.06, Outstanding Graduate
 
 
 # 📖 Educations
-- 2022.10 - 2024.03, Visiting PhD, Computer Vision Center, UAB, Spain
+- 2022.10 - 2024.03, Visiting PhD, National Computer Vision Center, UAB, Spain
 - 2019.09 - 2024.06, PhD, University of Chinese Academy of Sciences, China
 - 2015.09 - 2019.06, Bachelor, Southwest University, China
 

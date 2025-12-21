@@ -39,7 +39,6 @@ Welcome to visit my other portal websites [LinkedIn](https://www.linkedin.com/in
 - 2024.02: &nbsp; 🎉🎉🎉 One paper accepted to **CVPR 2024**.
 - 2023.10: &nbsp; Won the **Top 10** award in **ICCV VOTS2023 Challenge**.
 
-My Github get [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchuanm)](https://github.com/anuraghazra/github-readme-stats) stars.
 
 # 📝 Publications 
 - 1) [Transformer Sub-Patch Matching for High-Performance Visual Object Tracking.](https://ieeexplore.ieee.org/document/10101686)   
@@ -121,3 +120,6 @@ My Github get [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/a
 
 # 💻 Internships
 - 2022.02 - 2022.6, 2012 Lab of Huawei, Chengdu, China
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchuanm)](https://github.com/Tchuanm) 
+
